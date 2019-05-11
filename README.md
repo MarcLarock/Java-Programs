@@ -1,2 +1,2 @@
 # Java Programs
-Assorted Java Programs I've Created Over the Years
+Assorted Java programs I've created to learn the Java programming language.
